@@ -1,0 +1,9 @@
+.cont-anuncio {
+    position: relative;
+    width: 75%;
+}
+
+.textarea {
+    width: 100%;
+    height: auto;
+}
